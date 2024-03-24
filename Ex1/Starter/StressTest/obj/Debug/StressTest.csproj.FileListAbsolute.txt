@@ -1,0 +1,6 @@
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest\bin\Debug\StressTest.dll
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest\bin\Debug\StressTest.pdb
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest\obj\Debug\StressTest.csproj.AssemblyReference.cache
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest\obj\Debug\StressTest.csproj.CoreCompileInputs.cache
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest\obj\Debug\StressTest.dll
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest\obj\Debug\StressTest.pdb

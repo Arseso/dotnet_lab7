@@ -1,0 +1,11 @@
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest Unit Test Project\obj\Debug\StressTest Unit Test Project.csproj.AssemblyReference.cache
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest Unit Test Project\obj\Debug\StressTest Unit Test Project.csproj.CoreCompileInputs.cache
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest Unit Test Project\bin\Debug\Module 7 Unit Test Project.dll
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest Unit Test Project\bin\Debug\Module 7 Unit Test Project.pdb
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest Unit Test Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest Unit Test Project\bin\Debug\StressTest.dll
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest Unit Test Project\bin\Debug\StressTest.pdb
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest Unit Test Project\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest Unit Test Project\obj\Debug\StressTest Unit Test Project.csproj.CopyComplete
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest Unit Test Project\obj\Debug\Module 7 Unit Test Project.dll
+C:\Users\efrem\source\repos\Lab 7\Ex1\Starter\StressTest Unit Test Project\obj\Debug\Module 7 Unit Test Project.pdb
